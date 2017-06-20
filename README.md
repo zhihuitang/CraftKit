@@ -1,5 +1,5 @@
 # CraftKit
-[![](https://jitpack.io/v/zhihuitang/CraftKit.svg)](https://jitpack.io/#zhihuitang/CraftKit)  [![Build Status](https://travis-ci.org/zhihuitang/CraftKit.svg?branch=master)](https://travis-ci.org/zhihuitang/CraftKit)
+[![](https://jitpack.io/v/zhihuitang/CraftKit.svg)](https://jitpack.io/#zhihuitang/CraftKit)  [![Build Status](https://travis-ci.org/zhihuitang/CraftKit.svg?branch=master)](https://travis-ci.org/zhihuitang/CraftKit) [![](https://img.shields.io/badge/Author-ZhihuiTang-brightgreen.svg)](https://img.shields.io/badge/Author-ZhihuiTang-brightgreen.svg)
 
 Android Kit
 
